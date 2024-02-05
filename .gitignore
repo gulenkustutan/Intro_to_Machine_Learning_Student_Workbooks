@@ -137,7 +137,7 @@ dmypy.json
 
 # student work
 /student_work
-/reference_content/Slides
+#/reference_content/Slides
 /output
 z006_grad_dec_sol.ipynb
 
